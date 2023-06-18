@@ -1,0 +1,24 @@
+/*.root {
+    -fx-padding: 15;
+    -fx-background-color: grey;
+}*/
+.label {
+    -fx-text-fill: black;
+
+    -fx-font-weight: bold;
+}
+
+#opaque {
+    -fx-background-color: linear-gradient(#B2EBF2, #9DD8E7, #4DD0E1, #4BB5D1, #00ACC1, #00838F);
+}
+
+.toggle-button {
+    -fx-background-color: white;
+}
+
+.toggle-button:selected {
+    -fx-background-color: yellow;
+}
+
+
+
